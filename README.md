@@ -1,11 +1,11 @@
-# Data Wrangler Project Template
+# Example web scraping code
 
-## To start a new project
 
-### checkout the template
-First define your project name
+### Run the example code 
+git clone the_repo 
 ```
-# define your project name
-export PROJECT_NAME=your_project_name
+# run the project
+cd the_repo
+Rscript Web_scraping_example.R
 ```
 
